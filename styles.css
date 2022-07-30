@@ -1,0 +1,108 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+#title{
+background-color: brown;
+}
+
+.head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bold;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+
+.download-btn{
+    margin: 5% 3% 5% 0; 
+}
+
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+#features{
+   padding: 7% 14%;
+}
+
+h3{
+    font-weight: 600;
+}
+
+.features-box{
+    text-align: center;
+}
+
+.features-box p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #8f8f8f;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    padding-top: 7%;
+      text-align: center;
+      background-color: #ef8172;
+      color: white;
+}
+
+
+#testimonials h2{
+   
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.dog{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+
+}
